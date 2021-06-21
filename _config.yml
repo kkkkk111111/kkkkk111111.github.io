@@ -94,7 +94,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "안녕하세요"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "처음 만들어서 허접함"
   location         : "Somewhere"
